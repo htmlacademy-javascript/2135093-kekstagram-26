@@ -1,3 +1,5 @@
+import {getRandomPositiveInteger, getRandomArrayElement} from './util.js';
+
 const MESSAGES = [
   'Всё отлично!',
   'В целом всё неплохо. Но не всё.',
